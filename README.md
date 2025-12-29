@@ -37,7 +37,7 @@ MASK_INTENSITY = 0.0      # 后期遮罩强度 (0.0 为原汁原味)
 ```
 运行脚本：
 ```Bash
-python final_spatial_mosaic.py
+python main.py
 ```
 
 - 获取结果： 程序运行完成后，会生成 final_spatial_mosaic.jpg。
